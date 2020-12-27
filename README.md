@@ -1,6 +1,4 @@
-# Project Title
-
-Social media trend analyzer
+# Social media trend analyzer
 
 ## Summary
 
@@ -19,7 +17,12 @@ Lorem ipsum
 
 ## Data sources and AI methods
 
-Lorem ipsum
+Sources:
+* Twitter API
+* todo
+
+AI methods:
+* todo
 
 ## Challenges
 
