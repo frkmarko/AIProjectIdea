@@ -22,7 +22,7 @@ Sources:
 * todo
 
 AI methods:
-* todo
+* Unsupervised learning
 
 ## Challenges
 
