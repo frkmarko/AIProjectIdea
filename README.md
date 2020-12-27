@@ -26,7 +26,7 @@ AI methods:
 
 ## Challenges
 
-Lorem ipsum
+A key challenge is to identify posts that are part of a cenrtain trending topic. Trivial solutions are to look for hashtags and linked posts (replies), and posts that includes links to the same news articles. This is expected not to be enough. To meaninfully identify trends some words and/or phrases should be automatically classified as belonging to the same trending phenomenon.
 
 ## What next?
 
