@@ -13,7 +13,9 @@ The tool can be used for many purposes such as
 
 ## How is it used?
 
-Lorem ipsum
+The tool is deployed to a cloud compute platform, such as AWS or Azure environment. A serverless solution will be used to run the code in the cloud in connection with a database solution for the data storage and processing.
+
+The tool is by nature always on and processing the social media posts. There will be a way for the user to define topics about which to receive alerts from when they are predicted to be trending in a short future.
 
 ## Data sources and AI methods
 
